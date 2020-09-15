@@ -1,0 +1,13 @@
+D:\C#\ApiViaCep2\ApiViaCep2\bin\Debug\ApiViaCep2.exe.config
+D:\C#\ApiViaCep2\ApiViaCep2\bin\Debug\ApiViaCep2.exe
+D:\C#\ApiViaCep2\ApiViaCep2\bin\Debug\ApiViaCep2.pdb
+D:\C#\ApiViaCep2\ApiViaCep2\obj\Debug\ApiViaCep2.csprojAssemblyReference.cache
+D:\C#\ApiViaCep2\ApiViaCep2\obj\Debug\ApiViaCep2.Form1.resources
+D:\C#\ApiViaCep2\ApiViaCep2\obj\Debug\ApiViaCep2.Properties.Resources.resources
+D:\C#\ApiViaCep2\ApiViaCep2\obj\Debug\ApiViaCep2.csproj.GenerateResource.cache
+D:\C#\ApiViaCep2\ApiViaCep2\obj\Debug\ApiViaCep2.csproj.CoreCompileInputs.cache
+D:\C#\ApiViaCep2\ApiViaCep2\obj\Debug\ApiViaCep2.exe
+D:\C#\ApiViaCep2\ApiViaCep2\obj\Debug\ApiViaCep2.pdb
+D:\C#\ApiViaCep2\ApiViaCep2\bin\Debug\RestSharp.dll
+D:\C#\ApiViaCep2\ApiViaCep2\bin\Debug\RestSharp.xml
+D:\C#\ApiViaCep2\ApiViaCep2\obj\Debug\ApiViaCep2.csproj.CopyComplete
